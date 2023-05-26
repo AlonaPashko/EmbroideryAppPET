@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleEmbroideryApp/1.0.0": {
+        "dependencies": {
+          "FileOperationsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleEmbroideryApp.dll": {}
+        }
+      },
+      "FileOperationsLibrary/1.0.0": {
+        "runtime": {
+          "FileOperationsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleEmbroideryApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileOperationsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

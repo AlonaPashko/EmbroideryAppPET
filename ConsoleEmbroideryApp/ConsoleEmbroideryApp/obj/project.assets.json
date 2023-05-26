@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "FileOperationsLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FileOperationsLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FileOperationsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileOperationsLibrary/1.0.0": {
+      "type": "project",
+      "path": "../FileOperationsLibrary/FileOperationsLibrary.csproj",
+      "msbuildProject": "../FileOperationsLibrary/FileOperationsLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "FileOperationsLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\maxch\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Alona\\EmbroideryApp\\ConsoleEmbroideryApp\\ConsoleEmbroideryApp\\ConsoleEmbroideryApp.csproj",
+      "projectName": "ConsoleEmbroideryApp",
+      "projectPath": "C:\\Alona\\EmbroideryApp\\ConsoleEmbroideryApp\\ConsoleEmbroideryApp\\ConsoleEmbroideryApp.csproj",
+      "packagesPath": "C:\\Users\\maxch\\.nuget\\packages\\",
+      "outputPath": "C:\\Alona\\EmbroideryApp\\ConsoleEmbroideryApp\\ConsoleEmbroideryApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\maxch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Alona\\EmbroideryApp\\ConsoleEmbroideryApp\\FileOperationsLibrary\\FileOperationsLibrary.csproj": {
+              "projectPath": "C:\\Alona\\EmbroideryApp\\ConsoleEmbroideryApp\\FileOperationsLibrary\\FileOperationsLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
