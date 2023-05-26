@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Alona\\EmbroideryApp\\ConsoleEmbroideryApp\\ConsoleEmbroideryApp\\ConsoleEmbroideryApp.csproj",
+      "projectUniqueName": "C:\\Alona\\EmbroideryAppPET\\ConsoleEmbroideryApp\\ConsoleEmbroideryApp\\ConsoleEmbroideryApp.csproj",
       "projectName": "ConsoleEmbroideryApp",
-      "projectPath": "C:\\Alona\\EmbroideryApp\\ConsoleEmbroideryApp\\ConsoleEmbroideryApp\\ConsoleEmbroideryApp.csproj",
+      "projectPath": "C:\\Alona\\EmbroideryAppPET\\ConsoleEmbroideryApp\\ConsoleEmbroideryApp\\ConsoleEmbroideryApp.csproj",
       "packagesPath": "C:\\Users\\maxch\\.nuget\\packages\\",
-      "outputPath": "C:\\Alona\\EmbroideryApp\\ConsoleEmbroideryApp\\ConsoleEmbroideryApp\\obj\\",
+      "outputPath": "C:\\Alona\\EmbroideryAppPET\\ConsoleEmbroideryApp\\ConsoleEmbroideryApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maxch\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Alona\\EmbroideryApp\\ConsoleEmbroideryApp\\FileOperationsLibrary\\FileOperationsLibrary.csproj": {
-              "projectPath": "C:\\Alona\\EmbroideryApp\\ConsoleEmbroideryApp\\FileOperationsLibrary\\FileOperationsLibrary.csproj"
+            "C:\\Alona\\EmbroideryAppPET\\ConsoleEmbroideryApp\\FileOperationsLibrary\\FileOperationsLibrary.csproj": {
+              "projectPath": "C:\\Alona\\EmbroideryAppPET\\ConsoleEmbroideryApp\\FileOperationsLibrary\\FileOperationsLibrary.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Alona\\EmbroideryApp\\ConsoleEmbroideryApp\\FileOperationsLibrary\\FileOperationsLibrary.csproj": {}
+    "C:\\Alona\\EmbroideryAppPET\\ConsoleEmbroideryApp\\FileOperationsLibrary\\FileOperationsLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Alona\\EmbroideryApp\\ConsoleEmbroideryApp\\FileOperationsLibrary\\FileOperationsLibrary.csproj": {
+    "C:\\Alona\\EmbroideryAppPET\\ConsoleEmbroideryApp\\FileOperationsLibrary\\FileOperationsLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Alona\\EmbroideryApp\\ConsoleEmbroideryApp\\FileOperationsLibrary\\FileOperationsLibrary.csproj",
+        "projectUniqueName": "C:\\Alona\\EmbroideryAppPET\\ConsoleEmbroideryApp\\FileOperationsLibrary\\FileOperationsLibrary.csproj",
         "projectName": "FileOperationsLibrary",
-        "projectPath": "C:\\Alona\\EmbroideryApp\\ConsoleEmbroideryApp\\FileOperationsLibrary\\FileOperationsLibrary.csproj",
+        "projectPath": "C:\\Alona\\EmbroideryAppPET\\ConsoleEmbroideryApp\\FileOperationsLibrary\\FileOperationsLibrary.csproj",
         "packagesPath": "C:\\Users\\maxch\\.nuget\\packages\\",
-        "outputPath": "C:\\Alona\\EmbroideryApp\\ConsoleEmbroideryApp\\FileOperationsLibrary\\obj\\",
+        "outputPath": "C:\\Alona\\EmbroideryAppPET\\ConsoleEmbroideryApp\\FileOperationsLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxch\\AppData\\Roaming\\NuGet\\NuGet.Config",

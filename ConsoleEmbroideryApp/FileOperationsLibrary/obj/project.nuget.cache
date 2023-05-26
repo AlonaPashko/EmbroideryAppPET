@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kmwPeECeWQH4aaF5b9JTaT5K2Duo3+n0Zw+MEmdJh2k7uHzUYo+qGCqnVp9yPFHbUXvxoUDFIGp+JCgGA0838A==",
+  "dgSpecHash": "ljVLl4AXSU9L2CehNNYjww0nJxXfHp3gICokKOQ4WSxNIKyJpw0z/+SZNP/5LMfBhB8tBx+z1ILHWWblfOwPCw==",
   "success": true,
-  "projectFilePath": "C:\\Alona\\EmbroideryApp\\ConsoleEmbroideryApp\\FileOperationsLibrary\\FileOperationsLibrary.csproj",
+  "projectFilePath": "C:\\Alona\\EmbroideryAppPET\\ConsoleEmbroideryApp\\FileOperationsLibrary\\FileOperationsLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

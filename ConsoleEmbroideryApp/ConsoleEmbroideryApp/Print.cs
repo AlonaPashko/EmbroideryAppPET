@@ -27,7 +27,7 @@ namespace ConsoleEmbroideryApp
         {
             foreach (var item in dict)
             {
-                line = item.Key + " - " + item.Value + "\n";
+                line += item.Key + " - " + item.Value + "\n";
             }
             return line;
         }
