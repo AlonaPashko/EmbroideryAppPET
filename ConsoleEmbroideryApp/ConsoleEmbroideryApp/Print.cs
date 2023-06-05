@@ -15,7 +15,7 @@ namespace ConsoleEmbroideryApp
             line = "\n";
         }
 
-        public static string PrintList(List<string> list)
+        public static string PrintList<T>(List<T> list)
         {
             foreach (var item in list)
             {
@@ -23,11 +23,11 @@ namespace ConsoleEmbroideryApp
             }
             return line;
         }
-        public static string PrintDictionary(Dictionary<string, string> dict)
+        public static string PrintDictionary<TKey, TValue>(Dictionary<TKey, TValue> dict)
         {
             foreach (var item in dict)
             {
-                line += item.Key + " - " + item.Value + "\n";
+                line += item.Key?.ToString() + " - " + item.Value?.ToString() + "\n";
             }
             return line;
         }
